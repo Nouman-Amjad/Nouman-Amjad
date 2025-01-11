@@ -13,11 +13,26 @@ I am a passionate Software Engineer with expertise in developing scalable applic
 ---
 
 ## 🚀 Highlighted Projects
-- **[TripPlanner-MERN](https://github.com/your-username/TripPlanner-MERN)**: An advanced travel planner web app that finds perfect destinations within your budget.
-- **[RandomForestClassifier-DVC-Pipeline](https://github.com/your-username/RandomForestClassifier-DVC-Pipeline)**: A machine learning pipeline using DVC for reproducibility and Random Forest for classification.
-- **[Flask-App-Deployment-with-mysql-phpAdmin](https://github.com/your-username/Flask-App-Deployment-with-mysql-phpAdmin)**: Flask app integrated with MySQL, deployed via Kubernetes.
-- **[TopKShortestPath-ParallelMPI](https://github.com/your-username/TopKShortestPath-ParallelMPI)**: A parallel implementation of K-shortest paths using MPI and OpenMP.
 
+- **[Flask-App-Deployment-with-mysql-phpAdmin](https://github.com/Nouman-Amjad/Flask-App-Deployment-with-mysql-phpAdmin)**  
+  *A Flask app deployed with MySQL and phpMyAdmin, leveraging Kubernetes for scalable database management and seamless deployment.*  
+  **Technologies**: Flask, Kubernetes, MySQL, phpMyAdmin
+
+- **[Halal-Pairing](https://github.com/Nouman-Amjad/Halal-Pairing)**  
+  *A matchmaking application built in Java to connect individuals in a secure and culturally aligned manner, featuring real-time chat and event management.*  
+  **Technologies**: Java, MySQL, JavaFX
+
+- **[Pollution-Prediction-System-MLflow](https://github.com/Nouman-Amjad/Pollution-Prediction-System-MLflow)**  
+  *A Python-based system utilizing MLflow to predict pollution levels using machine learning models with automated model tracking and evaluation.*  
+  **Technologies**: Python, MLflow
+
+- **[RandomForestClassifier-DVC-Pipeline](https://github.com/Nouman-Amjad/RandomForestClassifier-DVC-Pipeline)**  
+  *A machine learning pipeline using DVC to automate the training and evaluation of a Random Forest Classifier for efficient and reproducible results.*  
+  **Technologies**: Python, DVC, Machine Learning
+  
+- **[BreakBricker-Assembly](https://github.com/Nouman-Amjad/BreakBricker-Assembly)**  
+  *A classic brick-breaking game implemented in Assembly Language, showcasing low-level programming and efficient memory management.*  
+  **Technologies**: Assembly
 ---
 
 ## 📫 How to Reach Me
