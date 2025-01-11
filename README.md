@@ -5,9 +5,9 @@ I am a passionate Software Engineer with expertise in developing scalable applic
 ---
 
 ## 🛠️ Skills & Expertise
-- **Web Development**: MERN Stack (MongoDB, Express, React, Node.js), Flask.
-- **Machine Learning & AI**: Random Forest models, AI pipelines, DVC (Data Version Control).
-- **DevOps & Cloud**: Kubernetes, Docker, MySQL, phpMyAdmin, CI/CD pipelines.
+- **Web Development**: Flask,MERN Stack (MongoDB, Express, React, Node.js).
+- **Machine Learning & AI**: ANN, CNN, RNN, LSTM, Latent Variable Models (LVM), GANs, Transformers, Diffusers, RAGs, Model Distillation, AI pipelines, DVC (Data Version Control).
+- **DevOps & Cloud**: Kubernetes, Docker, MLFlow, Prometheus, Grafana , AWS, CI/CD pipelines.
 - **Parallel & Distributed Computing**: MPI, OpenMP for high-performance computation.
 
 ---
