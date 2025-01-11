@@ -21,9 +21,9 @@ I am a passionate Software Engineer with expertise in developing scalable applic
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [noumanamjad@example.com](mailto:nouman.amjad.mail@gmail.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-nouman-amjad-676a50220)
-- **Instagram**: [your-portfolio.com](https://www.instagram.com/itzmenomi)
+- **Email**: [nouman.amjad.mail@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/muhammad-nouman-amjad-676a50220]
+- **Instagram**: [https://www.instagram.com/itzmenomi]
 
 ---
 
