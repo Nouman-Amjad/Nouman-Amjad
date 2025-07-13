@@ -1,52 +1,21 @@
-# Hi, I'm Muhammad Nouman Amjad! 👋
+# 💫 About Me:
+Hi, I'm Muhammad Nouman Amjad! <br>I am a passionate Software Engineer with expertise in developing scalable applications and intelligent systems.<br>Skills & Expertise<br>Machine Learning & AI: AI Agents, LLMs, GANs, Transformers, Diffusers, RAGs, Model Distillation, Computer Vision, AI pipelines, DVC (Data Version Control).<br>DevOps & Cloud: FastAPIs, Kubernetes, Docker, MLFlow, Prometheus, Grafana , AWS, CI/CD pipelines.<br>Parallel & Distributed Computing: MPI, OpenMP for high-performance computation.<br>Web Development: Flask, MERN Stack (MongoDB, Express, React, Node.js).<br>
 
-I am a passionate Software Engineer with expertise in developing scalable applications and intelligent systems. My work combines cutting-edge technologies with innovative solutions to solve real-world problems.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzmenomi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-nouman-amjad) 
 
-## 🛠️ Skills & Expertise
-- **Web Development**: Flask,MERN Stack (MongoDB, Express, React, Node.js).
-- **Machine Learning & AI**: ANN, CNN, RNN, LSTM, Latent Variable Models (LVM), GANs, Transformers, Diffusers, RAGs, Model Distillation, AI pipelines, DVC (Data Version Control).
-- **DevOps & Cloud**: Kubernetes, Docker, MLFlow, Prometheus, Grafana , AWS, CI/CD pipelines.
-- **Parallel & Distributed Computing**: MPI, OpenMP for high-performance computation.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nouman-Amjad&theme=calm&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nouman-Amjad&theme=calm&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman-Amjad&theme=calm&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-
-## 🚀 Highlighted Projects
-
-- **[Flask-App-Deployment-with-mysql-phpAdmin](https://github.com/Nouman-Amjad/Flask-App-Deployment-with-mysql-phpAdmin)**  
-  *A Flask app deployed with MySQL and phpMyAdmin, leveraging Kubernetes for scalable database management and seamless deployment.*  
-  **Technologies**: Flask, Kubernetes, MySQL, phpMyAdmin
-
-- **[Halal-Pairing](https://github.com/Nouman-Amjad/Halal-Pairing)**  
-  *A matchmaking application built in Java to connect individuals in a secure and culturally aligned manner, featuring real-time chat and event management.*  
-  **Technologies**: Java, MySQL, JavaFX
-
-- **[Pollution-Prediction-System-MLflow](https://github.com/Nouman-Amjad/Pollution-Prediction-System-MLflow)**  
-  *A Python-based system utilizing MLflow to predict pollution levels using machine learning models with automated model tracking and evaluation.*  
-  **Technologies**: Python, MLflow
-
-- **[RandomForestClassifier-DVC-Pipeline](https://github.com/Nouman-Amjad/RandomForestClassifier-DVC-Pipeline)**  
-  *A machine learning pipeline using DVC to automate the training and evaluation of a Random Forest Classifier for efficient and reproducible results.*  
-  **Technologies**: Python, DVC, Machine Learning
-  
-- **[BreakBricker-Assembly](https://github.com/Nouman-Amjad/BreakBricker-Assembly)**  
-  *A classic brick-breaking game implemented in Assembly Language, showcasing low-level programming and efficient memory management.*  
-  **Technologies**: Assembly
----
-
-## 📫 How to Reach Me
-- **Email**: [nouman.amjad.mail@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/muhammad-nouman-amjad-676a50220]
-- **Instagram**: [https://www.instagram.com/itzmenomi]
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Nouman-Amjad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌱 Currently Learning
-- Advanced AI model optimization.
-- Scaling containerized applications in the cloud.
-
----
-
-## ⚡ Fun Fact
-When I'm not coding, you'll find me exploring new travel destinations or experimenting with new technologies.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
