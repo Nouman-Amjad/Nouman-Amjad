@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Muhammad Nouman Amjad! <br>I am a passionate Software Engineer with expertise in developing scalable applications and intelligent systems.<br>Skills & Expertise<br>Machine Learning & AI: AI Agents, LLMs, GANs, Transformers, Diffusers, RAGs, Model Distillation, Computer Vision, AI pipelines, DVC (Data Version Control).<br>DevOps & Cloud: FastAPIs, Kubernetes, Docker, MLFlow, Prometheus, Grafana , AWS, CI/CD pipelines.<br>Parallel & Distributed Computing: MPI, OpenMP for high-performance computation.<br>Web Development: Flask, MERN Stack (MongoDB, Express, React, Node.js).<br>
+## Hi, I'm Muhammad Nouman Amjad! 
+<br>I am a passionate Software Engineer with expertise in developing scalable applications and intelligent systems.<br>Skills & Expertise<br>Machine Learning & AI: AI Agents, LLMs, GANs, Transformers, Diffusers, RAGs, Model Distillation, Computer Vision, AI pipelines, DVC (Data Version Control).<br>DevOps & Cloud: FastAPIs, Kubernetes, Docker, MLFlow, Prometheus, Grafana , AWS, CI/CD pipelines.<br>Parallel & Distributed Computing: MPI, OpenMP for high-performance computation.<br>Web Development: Flask, MERN Stack (MongoDB, Express, React, Node.js).<br>
 
 
 ## 🌐 Socials:
@@ -14,8 +15,3 @@ Hi, I'm Muhammad Nouman Amjad! <br>I am a passionate Software Engineer with expe
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Nouman-Amjad&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
