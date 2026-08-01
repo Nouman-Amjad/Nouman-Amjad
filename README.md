@@ -46,14 +46,6 @@ Deep learning system to geolocate US roadway assets from 2D images and vehicle-m
 
 ---
 
-### Experience
-
-- AI Engineer and Team Lead, Marsons Media
-- Machine Learning Engineer, VannGuard AI
-- Machine Learning Engineer, iENGINEERING
-
----
-
 ### Tech Stack
 
 **Languages**
@@ -70,16 +62,3 @@ Deep learning system to geolocate US roadway assets from 2D images and vehicle-m
 
 **Web**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nouman-Amjad&theme=calm&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouman-Amjad&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nouman-Amjad&theme=calm&hide_border=false"/>
-</p>
