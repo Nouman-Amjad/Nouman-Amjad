@@ -20,7 +20,7 @@ Most of my recent work lives in private company repositories, so the highlights 
 
 ### Featured Work
 
-**GovHub**
+**FedBid Intelligence Platform**
 AI-powered federal contracting intelligence platform on AWS. Orchestrated LangGraph agents with OpenAI and Anthropic Claude to automate opportunity discovery, document parsing (PDF, DOCX, XLSX), compliance checking, and multi-factor bid/no-bid scoring across 10,000+ government contract opportunities.
 - Built a semantic relevance matching engine using OpenAI text-embedding-3-small (1536-dim) with pgvector on PostgreSQL, scoring opportunity-to-company fit with a weighted formula across capability, past performance, competitiveness, and size fit.
 - Engineered an event-driven ingestion pipeline (AWS Step Functions, Lambda, SQS, ECS Fargate) pulling federal data from SAM.gov, FPDS, USAspending, and GSA CALC+ on a 4-hour refresh cycle with idempotent upserts and S3-backed storage.
@@ -28,19 +28,19 @@ AI-powered federal contracting intelligence platform on AWS. Orchestrated LangGr
 - Ran production infrastructure (ECS Fargate, ALB, RDS PostgreSQL, S3, WAF, Route 53) with auto-scaling, RBAC, async DB access, and Langfuse tracing, keeping LLM costs under $165 per month.
 <br>Stack: Python, LangGraph, OpenAI, Anthropic Claude, pgvector, PostgreSQL, AWS, Docker, Langfuse
 
-**RAG-GPT Enterprise**
+**Enterprise Insight Engine**
 High-performance platform for enterprise data search and contextual AI. Integrated data from Snowflake and Populi, using MCP agents and LLM-based prompt expansion with MongoDB schema awareness to sharpen query intent and retrieval quality. Optimized context filtering for token efficiency in high-throughput search scenarios.
 <br>Stack: Python, LLMs, MongoDB, Snowflake, MCP
 
-**RAG-Based Event Agenda Generation with Local LLM Inference**
+**Agenda Architect**
 FastAPI backend integrated with MongoDB and Qdrant for persistence and semantic vector search. Deployed LLMs locally via NVIDIA NIM to cut latency and cost versus cloud inference, with a LangChain RAG pipeline that generates structured multi-section agendas from user input. Orchestrated backend, database, vector store, and local LLM services with Docker Compose.
 <br>Stack: FastAPI, LangChain, Qdrant, MongoDB, NVIDIA NIM, Docker
 
-**Automated Data Ingestion and Influencer Recommendation System**
+**CreatorMatch Engine**
 Built an ETL pipeline on GCP to ingest and transform complex JSON data into BigQuery. Developed a Health Score algorithm from engagement and credibility metrics, plus a recommender engine to support marketing sponsorship decisions.
 <br>Stack: GCP, BigQuery, Python
 
-**Geo-Tagging US Roadway Assets Using 2D Images**
+**RoadVision GeoLocator**
 Deep learning system to geolocate US roadway assets from 2D images and vehicle-mounted footage. Fused Vision Transformer features with metadata and depth maps, improving geolocation accuracy by over 50 percent, from 17ft error to under 7ft, through model fine-tuning and depth estimation.
 <br>Stack: PyTorch, Vision Transformers, OpenCV
 
